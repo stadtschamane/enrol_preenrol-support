@@ -88,6 +88,7 @@ The standard unenrol confirmation dialog — pre-enrolled users stay fully manag
 - **One-time payment, lifetime updates** — every future release of the plugin is included.
 - Sold and transaction-handled through the official [Moodle Marketplace](https://marketplace.moodle.com).
 - Purchases include the full GPL v3 source code.
+- Terms of Sale for the purchase: [TERMS-OF-SALE.md](TERMS-OF-SALE.md).
 
 ## Issues & support
 
