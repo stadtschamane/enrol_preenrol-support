@@ -1,19 +1,35 @@
 # Terms of Sale — Pre-enrolment (email list) for Moodle
 
-**Version 1.0 — 28 October 2026**
+**Version 1.1 — 28 October 2026**
 
 These terms apply to the purchase of the Moodle plugin **Pre-enrolment (email list)**
 (component `enrol_preenrol`) through the Moodle Marketplace.
 
 ## 1. Who sells
 
-Seller: **Robert Sack**, Vienna, Austria
-Contact: the [issue tracker](https://github.com/stadtschamane/enrol_preenrol-support/issues)
-or [Discussions](https://github.com/stadtschamane/enrol_preenrol-support/discussions)
-of the support repository.
+**Seller**
 
-The seller is the merchant for this purchase. Moodle Pty Ltd operates the Marketplace
-as a platform and processes the payment; it does not sell the plugin itself.
+Robert Sack
+Hauptstrasse 54
+2325 Himberg
+Austria
+
+E-mail: [robert.sack@gmx.at](mailto:robert.sack@gmx.at)
+Support channels: the [issue tracker](https://github.com/stadtschamane/enrol_preenrol-support/issues)
+and [Discussions](https://github.com/stadtschamane/enrol_preenrol-support/discussions)
+
+The seller operates as a small business (*Kleinunternehmer*). The seller is the merchant
+for this purchase. Moodle Pty Ltd operates the Marketplace as a platform and processes the
+payment; it does not sell the plugin itself.
+
+**Verkäuferangaben (deutsch, rechtlich maßgeblich)**
+
+> Verkäufer: Robert Sack, Hauptstrasse 54, 2325 Himberg, Österreich.
+> E-Mail: robert.sack@gmx.at
+> Umsatzsteuer: Aufgrund der Kleinunternehmerregelung gemäß § 6 Abs. 1 Z 27 UStG 1994
+> wird keine Umsatzsteuer ausgewiesen.
+> Der Verkauf erfolgt über die Plattform Moodle Marketplace; Moodle Pty Ltd wickelt die
+> Zahlung ab, verkauft das Plugin jedoch nicht selbst.
 
 ## 2. What you buy
 
@@ -33,9 +49,10 @@ This is not a subscription: there is no recurring charge and no automatic renewa
 
 **Price: USD 59.00, one-time payment, including lifetime updates.**
 
-Prices are shown in US dollars and may be updated for future purchases; the price shown
-at the time of your purchase applies to that purchase. Any taxes shown at checkout, and
-any currency-conversion or card fees charged by your payment provider, are itemised there.
+No VAT is shown by the seller (small-business regulation, see section 1). Prices are in US
+dollars and may be updated for future purchases; the price shown at the time of your
+purchase applies to that purchase. Any taxes shown at checkout, and any currency-conversion
+or card fees charged by your payment provider, are itemised there.
 
 Payment is handled by the Moodle Marketplace through its payment processor. The seller
 neither receives nor stores your payment details.
@@ -64,6 +81,7 @@ Support runs through the public project channels:
   https://github.com/stadtschamane/enrol_preenrol-support/issues
 - Questions and general discussion:
   https://github.com/stadtschamane/enrol_preenrol-support/discussions
+- Direct contact: robert.sack@gmx.at
 
 Support is provided on a best-effort basis. There is **no service-level agreement**, no
 guaranteed response time and no entitlement to individual installation, configuration or
@@ -109,8 +127,9 @@ your purchase applies to that purchase; this page is versioned publicly in the r
 
 These terms are governed by Austrian law, excluding its conflict-of-law rules and the UN
 Convention on Contracts for the International Sale of Goods. Mandatory consumer-protection
-rules of your country of residence remain unaffected.
+rules of your country of residence remain unaffected. For consumers, the statutory rules on
+the place of jurisdiction apply.
 
 ---
 
-*Version 1.0, 28 October 2026.*
+*Version 1.1, 28 October 2026.*
