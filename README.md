@@ -5,6 +5,7 @@
 ![Status](https://img.shields.io/badge/version-1.1.3-blue) ![Support](https://img.shields.io/badge/Moodle-4.1%E2%80%935.3-success)
 
 - 🐞 **Report a bug / request a feature:** use the [Issues tab](https://github.com/stadtschamane/enrol_preenrol-support/issues)
+- 💬 **Questions and general discussion:** use [Discussions](https://github.com/stadtschamane/enrol_preenrol-support/discussions) — the Q&amp;A category for usage questions, *Ideas* to discuss possible features. Bug reports and concrete feature requests stay in the issue tracker so they can be triaged.
 - 📦 **Buy the plugin:** Moodle Marketplace — licence model: *one-time payment, lifetime updates*
 - 🔐 The plugin code repository is **private** (kept closed by the maintainer). Marketplace purchases ship the complete GPL v3 source code with the plugin. This public repository is the support and documentation point.
 
