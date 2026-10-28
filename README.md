@@ -64,7 +64,7 @@ The standard unenrol confirmation dialog — pre-enrolled users stay fully manag
 - **Enrolment duration, start and end date are applied to the enrolment.** Previously an imported person was enrolled with defaults regardless of the times configured in the method. A start date in the future now reserves the seat — the enrolment exists but only becomes active on that date, exactly like a normal Moodle enrolment. A duration takes precedence over an end date, matching the behaviour of Moodle's own self-enrolment.
 - **Case-insensitive e-mail matching with batched lookup.** Addresses match regardless of capitalisation (`Anna@Example.com` finds `anna@example.com`), and the importer looks addresses up in batches instead of one query per address — which matters on PostgreSQL, where e-mail comparison is case-sensitive and a second bulk import would otherwise rescan the user table row by row.
 - **The method can be deleted and hidden/shown** through the standard controls on the enrolment methods page — those icons were missing before.
-- **Course backup, restore and course copy are supported:** duplicating a course keeps the pre-enrolment method and its pending e-mail list.
+- **Course backup, restore and course copy are supported:** duplicating a course keeps the pre-enrolment method and its existing enrolments. Open reservations are not part of a course backup — a copy starts with the method and an empty pending list.
 - **Marketplace review fixes:** every capability now ships its language string, and every PHP file carries the complete Moodle boilerplate header.
 
 ## Changelog
